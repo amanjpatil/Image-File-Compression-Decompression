@@ -1,8 +1,6 @@
 # Image-File-Compression-Decompression
 
 In this we have tried to implement the Discrete Cosine Transform image Compression algorithm. We can compress grayscale BMP images .
-![image](https://user-images.githubusercontent.com/60308690/129471411-8030240f-0271-4d7e-878d-9db1a425d5a9.png)
-
 # Features:
 - Both compresses and decompresses imgage files .
 - It also handles Folder and compress all the files inside folder  and output new folder with all compresses files .
