@@ -1,7 +1,13 @@
 # Image-File-Compression-Decompression
 
-A brief description of what this project does and who it's for
+In this we have tried to implement the Discrete Cosine Transform image Compression algorithm. We can compress grayscale BMP images .
+![image](https://user-images.githubusercontent.com/60308690/129471411-8030240f-0271-4d7e-878d-9db1a425d5a9.png)
 
+# Features:
+- Both compresses and decompresses imgage files .
+- It also handles Folder and compress all the files inside folder  and output new folder with all compresses files .
+- It decompress  only those files which are compressed by this project .
+- It stores compressed file in binary file format .
 # Usage
 - Clone the repository on your machine.
 - Open Terminal and change directory to the project directory.
@@ -9,5 +15,4 @@ A brief description of what this project does and who it's for
 - project  [-c] | [-d] [File or Folder Name ] [-o] [Output File/Foleder name ]
 
 # Results :
-- Using this project we can compress up 19 kB of file 
-
+- Using this project we can compress up 250 kB of image file 
