@@ -4,6 +4,7 @@ In this we have tried to implement the Discrete Cosine Transform image Compressi
 
 #Description
 
-![image](https://user-images.githubusercontent.com/60308690/129470539-778444bb-2266-4ef9-be3c-0f2ed03d900d.png)
-![image](https://user-images.githubusercontent.com/60308690/129470557-605fe4df-1cd5-45b9-9470-7315ecd49e68.png)
+![image](https://user-images.githubusercontent.com/60308690/129470585-7f67125f-6b31-4f26-9340-111a407aece1.png)
+
+
 
